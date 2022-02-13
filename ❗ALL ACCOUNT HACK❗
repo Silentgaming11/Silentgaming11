@@ -1,0 +1,51 @@
+ &  pkg install git -y
+&    pkg install python && pkg install python2
+&    pip install lolcat
+ ━━━━━━━━！
+INSTALL INSTAHACK
+ ━━━━━━━━！
+&  git clone https://github.com/evildevill/instahack.git
+&  cd instahack
+&  bash setup
+&  bash instahack.sh
+━━━━━━━━！
+INSHACK
+━━━━━━━━！
+&  git clone https://github.com/cyberkallan/inshackle-bot.git
+&  cd inshackle-bot
+&  bash inshackle.sh
+ ━━━━━━━━！
+INSTAL INS BF
+ ━━━━━━━━
+&    apt update 
+&      apt install -y git 
+&    git clone https://github.com/samsesh/insta-bf.git 
+&     cd insta-bf 
+&     chmod +x * 
+&     sh andriod_setup.sh
+&     python instabf.py
+━━━━━━━━！
+INSTAL THE OSI. IG
+ ━━━━━━━━！
+&   pkg install -y git
+&git clone https://github.com/th3unkn0n/osi.ig.git && cd osi.ig
+&    python3 -m pip install -r requirements.txt
+&    python3 main.py -u username   
+&    python3 main.py -h
+━━━━━━━━！
+INSTALL INSTALOADER☠
+━━━━━━━━！
+&    pip3 install instaloader
+&   instaloader profile [profile ...]
+ ━━━━━━━━！
+INSTAL ADVPHISHING
+ ━━━━━━━━！
+&   git clone https://github.com/Ignitetch/AdvPhishing.git
+&    cd AdvPhishing/
+&     chmod 777 *
+&    ./Android-Setup.sh
+&      ./AdvPhishing.sh
+
+
+
+━━━━━━━━ ━━━━━━━━！✔
